@@ -7,17 +7,19 @@
 /* #region Grid ............................ */
 .debug .container {
     background-color: green;
-    padding: 0.1rem;
 }
 
 .debug .row {
     background-color: yellow;
-    padding: 0.1rem;
 }
 
-.debug [class^="col_"] {
+.debug [class^="col-"] {
     background-color: aqua;
-    padding: 0.1rem;
+}
+
+.debug .card {
+    background-color: rgb(255, 0, 234);
+    height: 100px;
 }
 
 /* #endregion Grid ......................... */
