@@ -44,7 +44,7 @@
 
 
         <main id="site_main">
-            <section class="jumbotron py-5">
+            <section class="jumbotron bg-green py-5">
                 <div class="container text-center px-5">
                     <div class="col-8 m-auto">
                         <img src="./assets/img/avatar.svg" class="rounded mx-auto d-block" alt="avatar">
@@ -92,7 +92,7 @@
             </section>
             <!-- /.#main_portfolio -->
 
-            <section id="main_about">
+            <section id="main_about" class="bg-green">
                 <div class="container p-5">
                     <h2 class="text-center text-white">ABOUT ME</h2>
                     <div class="row justify-content-center">
@@ -119,15 +119,31 @@
             <!-- /.#main_about -->
 
             <section id="main_contacts">
-                <div class="container px-5">
+                <div class="container py-5 px-5">
                     <h2 class="text-center">CONTACT ME</h2>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Name</li>
-                        <li class="list-group-item">Email Addres</li>
-                        <li class="list-group-item">Phone Number</li>
-                        <li class="list-group-item">Message</li>
-                    </ul>
-                    <div class="btn">send</div>
+                    <div class="row justify-content-center">
+                        <div class="col-8 text-white mb-3">
+                            <form>
+                                <fieldset disabled="">
+                                    <div class="mb-3">
+                                        <input type="text" id="name-input" class="form-control bg-white rounded-0 border-0 border-bottom" placeholder="Name">
+                                    </div>
+                                    <div class="mb-3">
+                                        <input type="text" id="email-input" class="form-control bg-white rounded-0 border-0 border-bottom" placeholder="Email Addres">
+                                    </div>
+                                    <div class="mb-3">
+                                        <input type="text" id="phone-input" class="form-control bg-white rounded-0 border-0 border-bottom" placeholder="Phone Number">
+                                    </div>
+                                    <div class="mb-3">
+                                        <textarea id="message-textarea" class="form-control bg-white rounded-0 border-0 border-bottom" rows="3"></textarea>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary bg-green">Submit</button>
+                                </fieldset>
+                            </form>
+                        </div>
+                        <!-- /.col -->
+                    </div>
+                    <!-- /.row -->
                 </div>
                 <!-- /.container -->
             </section>
