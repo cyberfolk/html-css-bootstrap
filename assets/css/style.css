@@ -29,3 +29,15 @@
 .fr_wing_right {
     left: calc(50% + 25px);
 }
+
+.circletag {
+    /* adv: the target gets the size of the parent */
+    width: 50px;
+    aspect-ratio: 1/1;
+    border-radius: 3rem;
+    overflow: hidden;
+    padding: 1rem;
+    border: white 1px solid;
+    vertical-align: 50%;
+    margin-left: 0.1rem;
+}
