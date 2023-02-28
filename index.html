@@ -12,11 +12,31 @@
         <link rel="stylesheet" href="./assets/css/debug.css">
         <title>frelancer</title>
     </head>
-    <body class="debug">
+    <body class="">
 
-        <header id="site_header">
-            <div class="container">
-                <h5>START BOOTSTRAP</h5>
+        <header id="site_header" class="$blue-900">
+            <div class="container bg-$indigo">
+                <nav class="navbar navbar-expand-lg">
+                    <div class="container-fluid">
+                        <a class="navbar-brand text-uppercase text-white fw-bold" href="#">Start bootstrap</a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                            <ul class="navbar-nav me-2">
+                                <li class="nav-item">
+                                    <a class="nav-link active text-uppercase text-white" aria-current="page" href="#main_portfolio">Portfolio</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-uppercase text-white" href="#main_about">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-uppercase text-white" href="#main_contacts">Contact Me</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
             </div>
             <!-- /.container -->
         </header>
@@ -34,7 +54,7 @@
             <!-- /.jumbotron -->
 
 
-            <section class="portfolio">
+            <section id="main_portfolio">
                 <div class="container">
                     <h2 class="text-center">PORTFOLIO</h2>
                     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-3">
@@ -67,9 +87,9 @@
                 </div>
                 <!-- /.container -->
             </section>
-            <!-- /.portfolio -->
+            <!-- /.#main_portfolio -->
 
-            <section class="about">
+            <section id="main_about">
                 <div class="container px-5">
                     <h2>ABOUT ME</h2>
                     <div class="row row-cols-1 row-cols-lg-2">
@@ -87,9 +107,9 @@
                 </div>
                 <!-- /.container -->
             </section>
-            <!-- /.about -->
+            <!-- /.#main_about -->
 
-            <section class="contacts">
+            <section id="main_contacts">
                 <div class="container px-5">
                     <h2 class="text-center">CONTACT ME</h2>
                     <ul class="list-group list-group-flush">
@@ -102,7 +122,7 @@
                 </div>
                 <!-- /.container -->
             </section>
-            <!-- /.contacts -->
+            <!-- /.#main_contacts -->
         </main>
         <!-- /#site_main -->
 
