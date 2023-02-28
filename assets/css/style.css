@@ -9,3 +9,23 @@
 .fr_bg_darker {
     background-color: #2C3E50;
 }
+
+.fr_decoration {
+    position: relative;
+}
+
+[class^="fr_wing_"] {
+    position: absolute;
+    width: 50px;
+    height: 4px;
+    border-radius: 1rem;
+    top: 50%;
+}
+
+.fr_wing_left {
+    right: calc(50% + 25px);
+}
+
+.fr_wing_right {
+    left: calc(50% + 25px);
+}
