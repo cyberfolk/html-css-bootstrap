@@ -1,8 +1,6 @@
 /* #region Common Rules */
 body {
-    font-family: var(--dsb-font);
     overflow: hidden;
-
 }
 
 :root {
