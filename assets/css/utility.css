@@ -1,5 +1,9 @@
 /* #region Utilities ....................... */
 /* ................................. css ↓↓↓ */
+.ms_bg_primary_dark {
+    background-color: #165BBA;
+}
+
 .ms_circletag {
     /* adv: the target gets the size of the parent */
     /* width: 100%; */
