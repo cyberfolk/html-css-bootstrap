@@ -17,7 +17,7 @@
 
 .debug [class^="col"] {
     background-color: aqua;
-    height: 600px;
+    height: 50px;
     padding: 0.1rem;
 }
 
@@ -62,8 +62,10 @@
 
 /* #region... section ...................... */
 /* ................................. css ↓↓↓ */
-.debug section {
+.debug .banner {
+    background-color: rgb(235, 152, 152);
     padding: 1rem;
+    height: 400px;
 }
 
 /* #endregion section ...................... */
