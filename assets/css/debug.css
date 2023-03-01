@@ -1,0 +1,66 @@
+/* #region Debug ...........................*/
+/* Il background-color lo metto in style.css */
+.debug * {
+    border: 1px dashed red;
+}
+
+/* #region Grid ............................ */
+.debug .container {
+    background-color: green;
+    padding: 0.1rem;
+}
+
+.debug .row {
+    background-color: yellow;
+    padding: 0.1rem;
+}
+
+.debug [class^="col_"] {
+    background-color: aqua;
+    padding: 0.1rem;
+}
+
+/* #endregion Grid ......................... */
+/* #endregion dashboard .................... */
+/* #region... #app-top ..................... */
+/* ................................. css ↓↓↓ */
+.debug #app-top {
+    padding: 1rem;
+    background-color: rgb(240, 100, 100);
+}
+
+/* #endregion #app-top ..................... */
+/* #region... #app-wrapper ................. */
+/* ................................. css ↓↓↓ */
+.debug #app-wrapper {
+    padding: 1rem;
+    background-color: rgb(118, 241, 118);
+}
+
+/* #region... #app-sideboard ............... */
+/* ................................. css ↓↓↓ */
+/* #endregion #app-sideboard ............... */
+.debug #app-sideboard {
+    padding: 1rem;
+    background-color: rgb(199, 199, 89);
+}
+
+/* #region... #app-main .................... */
+/* ................................. css ↓↓↓ */
+.debug #app-main {
+    padding: 1rem;
+    background-color: rgb(89, 199, 193);
+
+}
+
+/* #region... section ...................... */
+/* ................................. css ↓↓↓ */
+.debug section {
+    padding: 1rem;
+}
+
+/* #endregion section ...................... */
+/* #endregion #app-main .................... */
+/* #endregion #app-wrapper ................. */
+/* #endregion dashboard .................... */
+/* #endregion Debug ........................ */

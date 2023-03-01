@@ -1,0 +1,88 @@
+/* #endregion media query ...................... */
+
+@media screen and (min-width: 576px) {
+    /* #region... dashboard .................... */
+    /* #region... #app-top ..................... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-top ..................... */
+    /* #region... #app-wrapper ................. */
+    /* ................................. css ↓↓↓ */
+    /* #region... #app-sideboard ............... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-sideboard ............... */
+    /* #region... #app-main .................... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-main .................... */
+    /* #endregion #app-wrapper ................. */
+    /* #endregion dashboard .................... */
+}
+
+@media screen and (min-width: 768px) {
+    /* #region... dashboard .................... */
+    /* #region... #app-top ..................... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-top ..................... */
+    /* #region... #app-wrapper ................. */
+    /* ................................. css ↓↓↓ */
+    /* #region... #app-sideboard ............... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-sideboard ............... */
+    /* #region... #app-main .................... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-main .................... */
+    /* #endregion #app-wrapper ................. */
+    /* #endregion dashboard .................... */
+}
+
+@media screen and (min-width: 992px) {
+    /* #region... dashboard .................... */
+    /* #region... #app-top ..................... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-top ..................... */
+    /* #region... #app-wrapper ................. */
+    /* ................................. css ↓↓↓ */
+    /* #region... #app-sideboard ............... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-sideboard ............... */
+    /* #region... #app-main .................... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-main .................... */
+    /* #endregion #app-wrapper ................. */
+    /* #endregion dashboard .................... */
+}
+
+@media screen and (min-width: 1200px) {
+    /* #region... dashboard .................... */
+    /* #region... #app-top ..................... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-top ..................... */
+    /* #region... #app-wrapper ................. */
+    /* ................................. css ↓↓↓ */
+    /* #region... #app-sideboard ............... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-sideboard ............... */
+    /* #region... #app-main .................... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-main .................... */
+    /* #endregion #app-wrapper ................. */
+    /* #endregion dashboard .................... */
+}
+
+@media screen and (max-height: 1400) {
+    /* #region... dashboard .................... */
+    /* #region... #app-top ..................... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-top ..................... */
+    /* #region... #app-wrapper ................. */
+    /* ................................. css ↓↓↓ */
+    /* #region... #app-sideboard ............... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-sideboard ............... */
+    /* #region... #app-main .................... */
+    /* ................................. css ↓↓↓ */
+    /* #endregion #app-main .................... */
+    /* #endregion #app-wrapper ................. */
+    /* #endregion dashboard .................... */
+}
+
+/* #endregion media query ...................... */

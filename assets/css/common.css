@@ -1,0 +1,34 @@
+/* #region Common Rules */
+body {
+    font-family: var(--dsb-font);
+    overflow: hidden;
+
+}
+
+:root {
+    --dsb_shadow: #9d9d9d;
+    --dsb_font: 'Circular Std', sans-serif;
+
+    --dsb_white: white;
+    --dsb_black: black;
+    --dsb_gray_1: #d2d2d2;
+    --dsb_gray_2: #a3a3a3;
+    --dsb_gray_3: #717171;
+    --dsb_gray: gray;
+
+    --dsb_dark: #22272b;
+    --dsb_dark_secondary: #671435;
+    --dsb_primary: #8ea0e0;
+    --dsb_light: #f7f7f6;
+    --dsb_light_primar: #B4D0E7;
+    --dsb_lighter: rgb(205, 221, 255);
+
+    --icon-size: .8em;
+    --gutter: .5em;
+
+    --dsb_app_top_h: 100px;
+    --dsb_app_sideboard_w: 200px;
+
+}
+
+/* #endregion Common Rules */
