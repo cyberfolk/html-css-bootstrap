@@ -1,4 +1,4 @@
-/* #region Debug ...........................*/
+/* #region Debug ............................*/
 /* Il background-color lo metto in style.css */
 .debug * {
     border: 1px dashed red;
@@ -44,10 +44,10 @@
     background-color: rgb(118, 241, 118);
 }
 
-/* #region... #app_sideboard ............... */
+/* #region... #app_sidebar ................. */
 /* ................................. css ↓↓↓ */
-/* #endregion #app_sideboard ............... */
-.debug #app_sideboard {
+/* #endregion #app_sidebar ................. */
+.debug #app_sidebar {
     padding: 1rem;
     background-color: rgb(199, 199, 89);
 }

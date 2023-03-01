@@ -13,17 +13,17 @@
 }
 
 /* ................................. css ↓↓↓ */
-/* #region... #app_sideboard ............... */
+/* #region... #app_sidebar ................. */
 /* ................................. css ↓↓↓ */
-#app_sideboard {
-    width: var(--dsb_app_sideboard_w);
+#app_sidebar {
+    width: var(--dsb_app_sidebar_w);
 }
 
-/* #endregion #app_sideboard ............... */
+/* #endregion #app_sidebar ................. */
 /* #region... #app_main .................... */
 /* ................................. css ↓↓↓ */
 #app_main {
-    width: calc(100% - var(--dsb_app_sideboard_w));
+    width: calc(100% - var(--dsb_app_sidebar_w));
     overflow-y: auto;
 }
 
