@@ -1,32 +1,32 @@
 /* #region... dashboard .................... */
-/* #region... #app-top ..................... */
-#app-top {
+/* #region... #app_top ..................... */
+#app_top {
     height: var(--dsb_app_top_h);
 }
 
 /* ................................. css ↓↓↓ */
-/* #endregion #app-top ..................... */
-/* #region... #app-wrapper ................. */
-#app-wrapper {
+/* #endregion #app_top ..................... */
+/* #region... #app_wrapper ................. */
+#app_wrapper {
     height: calc(100vh - var(--dsb_app_top_h));
     overflow: hidden;
 }
 
 /* ................................. css ↓↓↓ */
-/* #region... #app-sideboard ............... */
+/* #region... #app_sideboard ............... */
 /* ................................. css ↓↓↓ */
-#app-sideboard {
+#app_sideboard {
     width: var(--dsb_app_sideboard_w);
 }
 
-/* #endregion #app-sideboard ............... */
-/* #region... #app-main .................... */
+/* #endregion #app_sideboard ............... */
+/* #region... #app_main .................... */
 /* ................................. css ↓↓↓ */
-#app-main {
+#app_main {
     width: calc(100% - var(--dsb_app_sideboard_w));
     overflow-y: auto;
 }
 
-/* #endregion #app-main .................... */
-/* #endregion #app-wrapper ................. */
+/* #endregion #app_main .................... */
+/* #endregion #app_wrapper ................. */
 /* #endregion dashboard .................... */

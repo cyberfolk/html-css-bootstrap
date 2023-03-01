@@ -22,32 +22,32 @@
 
 /* #endregion Grid ......................... */
 /* #endregion dashboard .................... */
-/* #region... #app-top ..................... */
+/* #region... #app_top ..................... */
 /* ................................. css ↓↓↓ */
-.debug #app-top {
+.debug #app_top {
     padding: 1rem;
     background-color: rgb(240, 100, 100);
 }
 
-/* #endregion #app-top ..................... */
-/* #region... #app-wrapper ................. */
+/* #endregion #app_top ..................... */
+/* #region... #app_wrapper ................. */
 /* ................................. css ↓↓↓ */
-.debug #app-wrapper {
+.debug #app_wrapper {
     padding: 1rem;
     background-color: rgb(118, 241, 118);
 }
 
-/* #region... #app-sideboard ............... */
+/* #region... #app_sideboard ............... */
 /* ................................. css ↓↓↓ */
-/* #endregion #app-sideboard ............... */
-.debug #app-sideboard {
+/* #endregion #app_sideboard ............... */
+.debug #app_sideboard {
     padding: 1rem;
     background-color: rgb(199, 199, 89);
 }
 
-/* #region... #app-main .................... */
+/* #region... #app_main .................... */
 /* ................................. css ↓↓↓ */
-.debug #app-main {
+.debug #app_main {
     padding: 1rem;
     background-color: rgb(89, 199, 193);
 
@@ -60,7 +60,7 @@
 }
 
 /* #endregion section ...................... */
-/* #endregion #app-main .................... */
-/* #endregion #app-wrapper ................. */
+/* #endregion #app_main .................... */
+/* #endregion #app_wrapper ................. */
 /* #endregion dashboard .................... */
 /* #endregion Debug ........................ */
