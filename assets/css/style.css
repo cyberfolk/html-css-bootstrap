@@ -1,6 +1,10 @@
 /* #region... #dashboard ................... */
 /* #region... #app_top ..................... */
 /* ................................. css ↓↓↓ */
+#app_top nav form input {
+    background-color: #E5E5E5;
+}
+
 /* #endregion #app_top ..................... */
 /* #region... #app_wrapper ................. */
 /* ................................. css ↓↓↓ */
