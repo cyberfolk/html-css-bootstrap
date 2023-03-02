@@ -7,6 +7,7 @@ body {
 :root {
     --dsb_primary_dark: #165BBA;
     --dsb_light: #f8f9fa;
+    --dsb_gray: #E5E5E5;
 
 
     --icon-size: .8em;

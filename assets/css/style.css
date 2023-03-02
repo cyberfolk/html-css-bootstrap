@@ -7,9 +7,8 @@
     transform: translate(0, -50%);
 }
 
-#app_top nav .input-group .input-group-text,
-#app_top nav .input-group input {
-    background-color: #E5E5E5;
+#app_top nav .input-group * {
+    background-color: var(--dsb_gray);
 }
 
 /* #endregion #app_top ..................... */
