@@ -40,7 +40,7 @@
 /* #region... #app_main .................... */
 /* ................................. css ↓↓↓ */
 #app_main .banner .ms_badges .badge {
-    background-color: var(--dsb_primary_dark);
+    background-color: var(--dsb_primary_2);
 }
 
 #app_main .banner .ms_add_student .offcanvas {
