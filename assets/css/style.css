@@ -1,6 +1,16 @@
 /* #region... #dashboard ................... */
 /* #region... #app_top ..................... */
 /* ................................. css ↓↓↓ */
+#app_top {
+    background-color: #f8f9fa;
+}
+
+#app_top nav {
+    position: relative;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
 #app_top nav .input-group .input-group-text,
 #app_top nav .input-group input {
     background-color: #E5E5E5;
@@ -30,6 +40,13 @@
 /* #endregion #app_sidebar ................. */
 /* #region... #app_main .................... */
 /* ................................. css ↓↓↓ */
+#app_main .content .container-fluid {
+    background-color: #f8f9fa;
+}
+
+#app_main .banner .ms_add_student .offcanvas {
+    width: 100%;
+}
 
 #app_main .ms_class_card th {
     font-weight: normal;
@@ -66,9 +83,8 @@
     width: 30%;
 }
 
-#app_main .banner .ms_add_student .offcanvas {
-    width: 100%;
-}
+
+
 
 
 
