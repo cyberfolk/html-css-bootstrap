@@ -50,10 +50,10 @@
 #app_main .ms_class_card td.date,
 #app_main .ms_class_card th.roi,
 #app_main .ms_class_card td.roi {
-    height: 0;
-    width: 0;
-    visibility: hidden;
+    display: none;
 }
+
+
 
 #app_main .ms_class_card th.name {
     font-weight: normal;

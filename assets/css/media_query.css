@@ -32,10 +32,10 @@
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
     #app_main .ms_class_card th.date,
-    #app_main .ms_class_card td.date,
     #app_main .ms_class_card th.roi,
+    #app_main .ms_class_card td.date,
     #app_main .ms_class_card td.roi {
-        visibility: visible;
+        display: table-cell;
     }
 
     #app_main .ms_class_card th.name {
