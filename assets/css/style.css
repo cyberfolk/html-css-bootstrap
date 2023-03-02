@@ -44,6 +44,10 @@
 /* #endregion #sidebar ..................... */
 /* #region... #app_main .................... */
 /* ................................. css ↓↓↓ */
+#app_main .banner .ms_badges .badge {
+    background-color: var(--dsb_primary_dark);
+}
+
 #app_main .content .container-fluid {
     background-color: #f8f9fa;
 }
