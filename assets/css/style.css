@@ -65,6 +65,10 @@
     width: 30%;
 }
 
+#app_main .banner .ms_add_student .offcanvas {
+    width: 100%;
+}
+
 
 
 /* #endregion #app_main .................... */

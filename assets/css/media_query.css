@@ -76,6 +76,10 @@
         overflow-y: auto;
     }
 
+    #app_main .banner .ms_add_student .offcanvas {
+        width: 50%;
+    }
+
     /* #endregion #app_main .................... */
     /* #endregion #app_wrapper ................. */
     /* #endregion dashboard .................... */
