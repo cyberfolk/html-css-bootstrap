@@ -1,10 +1,13 @@
 /* #region Common Rules */
 body {
     overflow: hidden;
+    background-color: var(--dsb_light);
 }
 
 :root {
     --dsb_primary_dark: #165BBA;
+    --dsb_light: #f8f9fa;
+
 
     --icon-size: .8em;
     --gutter: .5em;

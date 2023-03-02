@@ -1,10 +1,6 @@
 /* #region... #dashboard ................... */
 /* #region... #app_top ..................... */
 /* ................................. css ↓↓↓ */
-#app_top {
-    background-color: #f8f9fa;
-}
-
 #app_top nav {
     position: relative;
     top: 50%;
@@ -46,10 +42,6 @@
 /* ................................. css ↓↓↓ */
 #app_main .banner .ms_badges .badge {
     background-color: var(--dsb_primary_dark);
-}
-
-#app_main .content .container-fluid {
-    background-color: #f8f9fa;
 }
 
 #app_main .banner .ms_add_student .offcanvas {
