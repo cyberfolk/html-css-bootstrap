@@ -52,22 +52,13 @@
     font-weight: normal;
 }
 
-#app_main .ms_class_card td.date,
-#app_main .ms_class_card td.date,
-#app_main .ms_class_card th.date,
-#app_main .ms_class_card td.roi,
-#app_main .ms_class_card th.roi,
-#app_main .ms_class_card td.state,
-#app_main .ms_class_card th.state,
-#app_main .ms_class_card td.action,
-#app_main .ms_class_card th.action {
+#app_main .ms_class_card td:not(.name),
+#app_main .ms_class_card th:not(.name) {
     text-align: center;
 }
 
-#app_main .ms_class_card th.date,
-#app_main .ms_class_card td.date,
-#app_main .ms_class_card th.roi,
-#app_main .ms_class_card td.roi {
+#app_main .ms_class_card .date,
+#app_main .ms_class_card .roi {
     display: none;
 }
 
@@ -82,11 +73,6 @@
 #app_main .ms_class_card th.action {
     width: 30%;
 }
-
-
-
-
-
 
 /* #endregion #app_main .................... */
 /* #endregion #app_wrapper ................. */

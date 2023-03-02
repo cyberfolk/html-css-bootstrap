@@ -31,10 +31,8 @@
     /* #endregion #sidebar ..................... */
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
-    #app_main .ms_class_card th.date,
-    #app_main .ms_class_card th.roi,
-    #app_main .ms_class_card td.date,
-    #app_main .ms_class_card td.roi {
+    #app_main .ms_class_card .date,
+    #app_main .ms_class_card .roi {
         display: table-cell;
     }
 
@@ -42,10 +40,7 @@
         width: 36%;
     }
 
-    #app_main .ms_class_card th.date,
-    #app_main .ms_class_card th.roi,
-    #app_main .ms_class_card th.state,
-    #app_main .ms_class_card th.action {
+    #app_main .ms_class_card th:not(.name) {
         width: 16%;
     }
 
