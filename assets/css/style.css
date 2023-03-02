@@ -1,7 +1,8 @@
 /* #region... #dashboard ................... */
 /* #region... #app_top ..................... */
 /* ................................. css ↓↓↓ */
-#app_top nav form input {
+#app_top nav .input-group .input-group-text,
+#app_top nav .input-group input {
     background-color: #E5E5E5;
 }
 
