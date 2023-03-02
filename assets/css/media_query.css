@@ -8,9 +8,9 @@
     /* #endregion #app_top ..................... */
     /* #region... #app_wrapper ................. */
     /* ................................. css ↓↓↓ */
-    /* #region... #app_sidebar ................. */
+    /* #region... #sidebar ..................... */
     /* ................................. css ↓↓↓ */
-    /* #endregion #app_sidebar ................. */
+    /* #endregion #sidebar ..................... */
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
     /* #endregion #app_main .................... */
@@ -26,9 +26,9 @@
     /* #endregion #app_top ..................... */
     /* #region... #app_wrapper ................. */
     /* ................................. css ↓↓↓ */
-    /* #region... #app_sidebar ................. */
+    /* #region... #sidebar ..................... */
     /* ................................. css ↓↓↓ */
-    /* #endregion #app_sidebar ................. */
+    /* #endregion #sidebar ..................... */
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
     #app_main .ms_class_card th.date,
@@ -62,17 +62,17 @@
     /* #endregion #app_top ..................... */
     /* #region... #app_wrapper ................. */
     /* ................................. css ↓↓↓ */
-    /* #region... #app_sidebar ................. */
+    /* #region... #sidebar ..................... */
     /* ................................. css ↓↓↓ */
-    #app_sidebar {
-        width: var(--dsb_app_sidebar_w_lg);
+    #sidebar {
+        width: var(--dsb_sidebar_w_lg);
     }
 
-    /* #endregion #app_sidebar ................. */
+    /* #endregion #sidebar ..................... */
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
     #app_main {
-        width: calc(100% - var(--dsb_app_sidebar_w_lg));
+        width: calc(100% - var(--dsb_sidebar_w_lg));
         overflow-y: auto;
     }
 
@@ -94,9 +94,9 @@
     /* #endregion #app_top ..................... */
     /* #region... #app_wrapper ................. */
     /* ................................. css ↓↓↓ */
-    /* #region... #app_sidebar ................. */
+    /* #region... #sidebar ..................... */
     /* ................................. css ↓↓↓ */
-    /* #endregion #app_sidebar ................. */
+    /* #endregion #sidebar ..................... */
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
     #app_main .ms_class_card th.name {
@@ -122,9 +122,9 @@
     /* #endregion #app_top ..................... */
     /* #region... #app_wrapper ................. */
     /* ................................. css ↓↓↓ */
-    /* #region... #app_sidebar ................. */
+    /* #region... #sidebar ..................... */
     /* ................................. css ↓↓↓ */
-    /* #endregion #app_sidebar ................. */
+    /* #endregion #sidebar ..................... */
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
     /* #endregion #app_main .................... */

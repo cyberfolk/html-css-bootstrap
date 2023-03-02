@@ -25,8 +25,8 @@ body {
     --gutter: .5em;
 
     --dsb_app_top_h: 4rem;
-    --dsb_app_sidebar_w_lg: 9rem;
-    --dsb_app_sidebar_w: 4rem;
+    --dsb_sidebar_w_lg: 9rem;
+    --dsb_sidebar_w: 4rem;
 
 }
 

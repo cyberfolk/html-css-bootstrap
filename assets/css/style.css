@@ -19,19 +19,19 @@
 /* #endregion #app_top ..................... */
 /* #region... #app_wrapper ................. */
 /* ................................. css ↓↓↓ */
-/* #region... #app_sidebar ................. */
+/* #region... #sidebar ..................... */
 /* ................................. css ↓↓↓ */
-#app_sidebar {
+#sidebar {
     background-image: url("../img/sidebar-bg.png");
     background-position: center;
     background-repeat: no-repeat;
 }
 
-#app_sidebar i {
+#sidebar i {
     width: 1.5rem;
 }
 
-#app_sidebar .action:hover {
+#sidebar .action:hover {
     background-color: #888c9c
 }
 
@@ -41,7 +41,7 @@
 /* #region... .sidebar_bottom .............. */
 /* ................................. css ↓↓↓ */
 /* #endregion .sidebar_bottom .............. */
-/* #endregion #app_sidebar ................. */
+/* #endregion #sidebar ..................... */
 /* #region... #app_main .................... */
 /* ................................. css ↓↓↓ */
 #app_main .content .container-fluid {
