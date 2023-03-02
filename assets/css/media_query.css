@@ -1,6 +1,7 @@
 /* #endregion media query ...................... */
 
 @media screen and (min-width: 576px) {
+
     /* #region... #dashboard ................... */
     /* #region... #app_top ..................... */
     /* ................................. css ↓↓↓ */
@@ -18,6 +19,7 @@
 }
 
 @media screen and (min-width: 768px) {
+
     /* #region... #dashboard ................... */
     /* #region... #app_top ..................... */
     /* ................................. css ↓↓↓ */
@@ -29,6 +31,24 @@
     /* #endregion #app_sidebar ................. */
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
+    #app_main .ms_class_card th.date,
+    #app_main .ms_class_card td.date,
+    #app_main .ms_class_card th.roi,
+    #app_main .ms_class_card td.roi {
+        visibility: visible;
+    }
+
+    #app_main .ms_class_card th.name {
+        width: 28%;
+    }
+
+    #app_main .ms_class_card th.date,
+    #app_main .ms_class_card th.roi,
+    #app_main .ms_class_card th.state,
+    #app_main .ms_class_card th.action {
+        width: 18%;
+    }
+
     /* #endregion #app_main .................... */
     /* #endregion #app_wrapper ................. */
     /* #endregion dashboard .................... */
@@ -53,6 +73,7 @@
 }
 
 @media screen and (min-width: 1200px) {
+
     /* #region... #dashboard ................... */
     /* #region... #app_top ..................... */
     /* ................................. css ↓↓↓ */
@@ -64,6 +85,17 @@
     /* #endregion #app_sidebar ................. */
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
+    #app_main .ms_class_card th.name {
+        width: 40%;
+    }
+
+    #app_main .ms_class_card th.date,
+    #app_main .ms_class_card th.roi,
+    #app_main .ms_class_card th.state,
+    #app_main .ms_class_card th.action {
+        width: 15%;
+    }
+
     /* #endregion #app_main .................... */
     /* #endregion #app_wrapper ................. */
     /* #endregion dashboard .................... */
