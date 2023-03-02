@@ -7,7 +7,9 @@ body {
 :root {
     --dsb_primary_2: #165BBA;
     --dsb_light: #f8f9fa;
-    --dsb_gray: #E5E5E5 --icon-size: .8em;
+    --dsb_gray: #E5E5E5;
+    --dsb_gray_2: #888c9c;
+    --icon-size: .8em;
     --gutter: .5em;
 
     --dsb_app_top_h: 4rem;

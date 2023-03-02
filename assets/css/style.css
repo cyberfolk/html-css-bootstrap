@@ -23,11 +23,12 @@
 }
 
 #sidebar i {
+    /* To allign icons */
     width: 1.5rem;
 }
 
 #sidebar .action:hover {
-    background-color: #888c9c
+    background-color: var(--dsb_gray_2)
 }
 
 /* #region... .sidebar_top ................. */
