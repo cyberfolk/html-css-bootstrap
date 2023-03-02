@@ -55,6 +55,7 @@
 }
 
 @media screen and (min-width: 992px) {
+
     /* #region... #dashboard ................... */
     /* #region... #app_top ..................... */
     /* ................................. css ↓↓↓ */
@@ -63,9 +64,18 @@
     /* ................................. css ↓↓↓ */
     /* #region... #app_sidebar ................. */
     /* ................................. css ↓↓↓ */
+    #app_sidebar {
+        width: var(--dsb_app_sidebar_w_lg);
+    }
+
     /* #endregion #app_sidebar ................. */
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
+    #app_main {
+        width: calc(100% - var(--dsb_app_sidebar_w_lg));
+        overflow-y: auto;
+    }
+
     /* #endregion #app_main .................... */
     /* #endregion #app_wrapper ................. */
     /* #endregion dashboard .................... */

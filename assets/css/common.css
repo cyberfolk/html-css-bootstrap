@@ -24,8 +24,9 @@ body {
     --icon-size: .8em;
     --gutter: .5em;
 
-    --dsb_app_top_h: 70px;
-    --dsb_app_sidebar_w: 140px;
+    --dsb_app_top_h: 4.5rem;
+    --dsb_app_sidebar_w_lg: 9rem;
+    --dsb_app_sidebar_w: 4rem;
 
 }
 
