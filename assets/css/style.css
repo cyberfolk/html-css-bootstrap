@@ -17,6 +17,7 @@
 /* #region... #sidebar ..................... */
 /* ................................. css ↓↓↓ */
 #sidebar {
+    background-color: var(--dsb_primary_3);
     background-image: url("../img/sidebar-bg.png");
     background-position: center;
     background-repeat: no-repeat;
