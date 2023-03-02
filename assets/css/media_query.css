@@ -39,14 +39,14 @@
     }
 
     #app_main .ms_class_card th.name {
-        width: 28%;
+        width: 36%;
     }
 
     #app_main .ms_class_card th.date,
     #app_main .ms_class_card th.roi,
     #app_main .ms_class_card th.state,
     #app_main .ms_class_card th.action {
-        width: 18%;
+        width: 16%;
     }
 
     /* #endregion #app_main .................... */
@@ -100,14 +100,22 @@
     /* #region... #app_main .................... */
     /* ................................. css ↓↓↓ */
     #app_main .ms_class_card th.name {
-        width: 40%;
+        width: 50%;
     }
 
-    #app_main .ms_class_card th.date,
     #app_main .ms_class_card th.roi,
-    #app_main .ms_class_card th.state,
+    #app_main .ms_class_card th.state {
+        width: 10%;
+
+    }
+
     #app_main .ms_class_card th.action {
-        width: 15%;
+        width: 13%;
+
+    }
+
+    #app_main .ms_class_card th.date {
+        width: 17%;
     }
 
     /* #endregion #app_main .................... */
