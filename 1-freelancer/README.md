@@ -1,9 +1,5 @@
 # Bootstrap 2-Dashboard
 
-**Initial commit**: 27/02/23
-
-**Tecnologie:** HTML, CSS e Bootstrap.
-
 Primo approccio con il framework bootstrap.
 
 <table cellpadding="0">
