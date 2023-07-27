@@ -1,6 +1,8 @@
 # Bootstrap 2-Dashboard
 
-Primo approccio con il framework bootstrap.
+Ecco qui il mio approccio con il framework bootstrap, leggendo la documentazione ho trovato tantissime classi ready-made.  
+:tada: Ora che ho uno strumento già pronto non sarà più necessario riscriversi a mano la griglia e le classi utilities.  
+🔎 Ma grazie ai precedenti esercizi è ho potuto  vedere da vicino la logica che sta sotto queste classi.
 
 <table cellpadding="0">
   <tr style="padding: 0">
