@@ -1,9 +1,5 @@
 # Bootstrap 2-Dashboard
 
-**Initial commit**: 01/03/23
-
-**Tecnologie:** HTML, CSS e Bootstrap.
-
 Secondo esercizio con il framework Bootstrap. In questo esercizio per evitare che il file style.css diventase troppo grande ho deciso di suddividerlo per argomenti in file diversi.
 
 -   In **media_query.css** è contenuta la logica responsive per integrare le features non coperte da bootstrap.
