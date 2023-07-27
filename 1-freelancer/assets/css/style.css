@@ -1,0 +1,43 @@
+.fr_bg_green {
+    background-color: #1ABC9C;
+}
+
+.fr_bg_dark {
+    background-color: #3A546D;
+}
+
+.fr_bg_darker {
+    background-color: #2C3E50;
+}
+
+.fr_decoration {
+    position: relative;
+}
+
+[class^="fr_wing_"] {
+    position: absolute;
+    width: 50px;
+    height: 4px;
+    border-radius: 1rem;
+    top: 50%;
+}
+
+.fr_wing_left {
+    right: calc(50% + 25px);
+}
+
+.fr_wing_right {
+    left: calc(50% + 25px);
+}
+
+.circletag {
+    /* adv: the target gets the size of the parent */
+    width: 50px;
+    aspect-ratio: 1/1;
+    border-radius: 3rem;
+    overflow: hidden;
+    padding: 1rem;
+    border: white 1px solid;
+    vertical-align: 50%;
+    margin-left: 0.1rem;
+}
