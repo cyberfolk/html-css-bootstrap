@@ -4,9 +4,9 @@
 
 **Tecnologie:** HTML, CSS e Bootstrap.
 
-Ecco qui il mio progetto con 🅱️ Bootstrap. Vi confesso che il primmo approccio non è stato facile, anche perchè mi ero affezionato al css, ma poi una volta arrivati in cima alla montagna non si torna più indietro, ho capito la potenzialità di un libreria e la velocità di sviluppo che ti permette di avere.. fantastico! ⚡️
+**Info**: Here is my project with 🅱️ Bootstrap. I confess that the first approach was not easy, also because I had become fond of CSS, but then once I reached the top of the mountain there was no turning back, I understood the potential of a library and the speed of development that allows you to have.. fantastic! ⚡️
 
-## Screenshot dell'esercizio [2-advanced](/2-dashboard)
+## Screenshot of [2-dashboard](/2-dashboard) excercise
 
 <table cellpadding="0">
   <tr style="padding: 0">
